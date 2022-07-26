@@ -4,6 +4,6 @@ originalfield,metadatablock,metadatafield,id,subfield,level,type
 "/record/metadata/oai_dc:dc/dc:description",citation,dsDescription,1,dsDescriptionValue,0,primitive
 "/record/metadata/oai_dc:dc/dc:publisher",citation,producer,1,producerName,0,primitive
 "/record/metadata/oai_dc:dc/dc:publisher",citation,distributor,1,distributorName,0,primitive
-"/record/metadata/oai_dc:dc/dc:identifier",citation,datasetPersistentId,1,identifier,0,primitive
+"/record/metadata/oai_dc:dc/dc:identifier",citation,datasetPersistentId,1,datasetPersistentId,0,primitive
 "/record/metadata/oai_dc:dc/dc:date",citation,distributionDate,1,"",0,primitive
 
