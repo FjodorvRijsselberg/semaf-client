@@ -13,7 +13,6 @@ originalfield,metadatablock,metadatafield,id,subfield,level,type
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:subject/ddi:topcClas",citation,topicClassification,1,topicClassValue,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:subject/ddi:topcClas/@vocab",citation,topicClassification,1,topicClassVocab,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:abstract",citation,dsDescription,1,dsDescriptionValue,0,primitive
-"/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:sumDscr/ddi:collDate",citation,dateOfCollection,1,"dateOfCollectionStart",0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:sumDscr/ddi:timePrd",citation,timePeriodCovered,1,timePeriodCoveredStart,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:sumDscr/ddi:nation",geospatial,geographicCoverage,1,country,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:sumDscr/ddi:geoCover",geospatial,geographicCoverage,1,other,0,primitive
